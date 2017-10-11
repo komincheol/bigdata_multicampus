@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="season">
+	<typeAlias alias="SeasonVO" type="dandb.SeasonVO"/>
+	
+	<update id="updateSeason" parameterClass="SeasonVO">
+	UPDATE 	tb_season SET
+      		snmonth=#snMonth#, 
+      		startdate=#startDate#, 
+      		enddate=#endDate#, 
+      		projectno=#projectNo#
+	WHERE  	seasonid=#seasonId#   
+	</update>
+
+	<delete id="deleteSeason" parameterClass="Long">
+	DELETE FROM tb_season
+	WHERE  		seasonid=#seasonId#  
+	</delete>
+
+	<insert id="insertSeason" parameterClass="seasonVO">
+	INSERT INTO tb_season
+	VALUES (seq_season.nextval, #snMonth#, #startDate#, #endDate#, #projectNo#)
+	</insert>
+</sqlMap>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="team">
+	<typeAlias alias="TeamVO" type="dandb.TeamVO"/>
+	
+	<update id="updateTeam" parameterClass="TeamVO">
+	UPDATE tb_Team SET
+      		teamname=#teamName#,
+      		teamday=#teamDay#,
+      		location=#location#,
+      		maintime=#mainTime#,
+      		pretime=#preTime#,
+      		teamurl=#teamUrl#
+	WHERE  teamid=#teamId#  
+	</update>
+
+	<delete id="deleteTeam" parameterClass="String">
+	DELETE FROM tb_team
+	WHERE  		teamid=#teamId#  
+	</delete>
+
+	<insert id="insertTeam" parameterClass="TeamVO">
+	INSERT INTO tb_Team (teamid, teamname, teamday, location, maintime, pretime, teamurl)
+	VALUES (#teamId#, #teamName#, #teamDay#, #location#, #mainTime#, #preTime#, #teamUrl#)
+	</insert>
+</sqlMap>

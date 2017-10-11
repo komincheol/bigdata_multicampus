@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body>
+<table>
+	<caption>게시물 리스트</caption>
+<tr>
+	<th>번호</th>
+	<th>작성자</th>
+	<th>제목</th>
+	<th>작성일</th>
+	<th>조회수</th>
+</tr>
+<tr>
+	<th>1</th>
+	<th>피터샘슨</th>
+	<th><a href="content.jsp">실수란</a></th>
+	<th>2017-06-30</th>
+	<th>667</th>
+</tr>
+</table><br/>
+<a href="insert.jsp">글쓰기</a><br/>
+</body>
+</html>

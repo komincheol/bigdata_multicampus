@@ -1,0 +1,5 @@
+package com.n1books.dev.controller;
+
+public class Text2SpeechController {
+
+}

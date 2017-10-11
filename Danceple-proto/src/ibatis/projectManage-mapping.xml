@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="project">
+	<typeAlias alias="ProjectVO" type="dandb.ProjectVO"/>
+	
+	<update id="updateProject" parameterClass="ProjectVO">
+	UPDATE 	tb_project SET
+      		projecttitle=#projectTitle#, 
+      		projectdate=#projectDate#, 
+      		projectdesc=#projectDesc#
+	WHERE  	projectno=#projectNo#   
+	</update>
+
+	<delete id="deleteProject" parameterClass="Long">
+	DELETE FROM tb_project
+	WHERE  		projectno=#projectNo#  
+	</delete>
+
+	<insert id="insertProject" parameterClass="ProjectVO">
+	INSERT INTO tb_project
+	VALUES (seq_project.nextval, #projectTitle#, #projectDate#, #projectDesc#)
+	</insert>
+</sqlMap>

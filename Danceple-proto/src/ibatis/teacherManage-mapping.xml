@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="teacher">
+	<typeAlias alias="TeacherVO" type="dandb.TeacherVO"/>
+	
+	<update id="updateTeacher" parameterClass="TeacherVO">
+	UPDATE tb_Teacher SET
+			teachername=#teacherName#,
+			genreid=#genreId#,
+			teamid=#teamId#,
+			seasonid=#seasonId#
+	WHERE 	teacherid=#teacherId#
+	</update>
+
+	<insert id="insertTeacher" parameterClass="TeacherVO">
+	INSERT INTO tb_Teacher (teacherid, teachername, genreid, teamid, seasonid)
+	VALUES (seq_teacher.nextval ,#teacherName#, #genreId#, #teamId#, #seasonId#)
+	</insert>
+</sqlMap>

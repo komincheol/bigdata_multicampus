@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+
+function process() {
+	let txt= document.getElementById("ex");
+	txt.style.color="blue";
+	txt.style.fontSize="50px";
+}
+
+$(document).ready(function(){
+	$("#ex").click(function(){
+		$(this).hide();
+	});
+});
+</script>
+</head>
+<body>
+<h1>Test</h1>
+<p id="ex">테스트문장</p>
+<input type="button" value="click me!" onclick="process()"/>
+</body>
+</html>

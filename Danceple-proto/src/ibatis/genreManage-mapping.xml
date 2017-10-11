@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="genre">
+	<typeAlias alias="GenreVO" type="dandb.GenreVO"/>
+	
+	<update id="updateGenre" parameterClass="GenreVO">
+	UPDATE 	tb_Genre SET
+      		genrename=#genreName#,
+      		genreurl=#genreUrl# 
+	WHERE  	genreid=#genreId#   
+	</update>
+
+	<delete id="deleteGenre" parameterClass="String">
+	DELETE FROM tb_Genre
+	WHERE  		genreid=#genreId#    
+	</delete>
+
+	<insert id="insertGenre" parameterClass="GenreVO">
+	INSERT INTO tb_Genre(genreid, genrename, genreurl)
+	VALUES (#genreId#, #genreName#, #genreUrl#)
+	</insert>
+</sqlMap>

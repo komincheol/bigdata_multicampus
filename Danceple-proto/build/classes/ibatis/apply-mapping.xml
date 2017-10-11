@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="apply">
+	<typeAlias alias="ApplyVO" type="dandb.ApplyVO"/>
+	<typeAlias alias="UserVO" type="dandb.UserVO"/>
+	<typeAlias alias="TeamVO" type="dandb.TeamVO"/>
+	<typeAlias alias="GenreVO" type="dandb.GenreVO"/>
+	
+	<select id="getuser" resultClass="UserVO">
+	select * from tb_user where userId='123'
+	</select>
+	
+<!-- 	<insert id="insertApply" parameterClass="UserVO, ApplyVO">
+	INSERT INTO apply (memberId, teamId, genre1, genre2, genre3)");
+	VALUES(memberId, #ApplyVO.teamId#, #ApplyVO.genre1#, #ApplyVO.genre2# ,#ApplyVO.genre3#)");
+	WHERE memberName=#UserVO.memberName# AND phone=#UserVO.phone#
+	</insert> -->
+	
+	<select id="getTeamList" resultClass="TeamVO">
+	select * from tb_team
+	</select>
+	
+	<select id="getGenreList" resultClass="GenreVO">
+	select * from tb_genre
+	</select>
+	
+	
+</sqlMap>

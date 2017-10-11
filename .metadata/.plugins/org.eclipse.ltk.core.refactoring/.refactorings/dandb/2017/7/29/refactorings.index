@@ -1,0 +1,21 @@
+1500437939296	Rename type 'memberDAO'
+1500437948126	Rename type 'memberDA'
+1500438878099	Delete element
+1500439280916	Rename package 'dandbcon'
+1500439587171	Rename type 'memberInsert'
+1500439791662	Move 6 resources to 'WebContent'
+1500439794311	Delete element
+1500439837028	Move 6 resources to 'member'
+1500441807328	Rename type 'memberDAO'
+1500441814864	Rename type 'memberDAOImpl'
+1500442319649	Copy package
+1500442360918	Rename package 'member.model.copy'
+1500442365792	Delete element
+1500442372309	Rename package 'member.model2'
+1500442457086	Move 'index.jsp' to 'WEB-INF'
+1500442460582	Move 'index.jsp' to 'WebContent'
+1500443694524	Move 'result.jsp' to 'WEB-INF'
+1500443800075	Move 'result.jsp' to 'member'
+1500446065250	Rename package 'basic.contoller'
+1500446131113	Copy compilation unit
+1500451311562	Delete element

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:mvcboard" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:webdev"/>
+  <module moduleId="org.eclipse.jst.jee.server:dandb3" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:watsondev2"/>
+</modules>

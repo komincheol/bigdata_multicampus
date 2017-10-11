@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="info">
+	<typeAlias alias="ApplyVO" type="dandb.ApplyVO"/>
+	
+	<typeAlias alias="SeasonVO" type="dandb.SeasonVO"/>
+	<typeAlias alias="ProjectVO" type="dandb.ProjectVO"/>
+	<typeAlias alias="DuescheckVO" type="dandb.DuescheckVO"/>
+	
+	<typeAlias alias="TeamVO" type="dandb.TeamVO"/>
+	<typeAlias alias="GenreVO" type="dandb.GenreVO"/>
+	
+	<typeAlias alias="UserVO" type="dandb.UserVO"/>
+	<typeAlias alias="GradeVO" type="dandb.GradeVO"/>
+	
+	
+	<select id="getApplyList" resultClass="ApplyVO">
+	SELECT * FROM tb_Apply
+	</select>
+	
+	
+	<select id="getSeasonList" resultClass="SeasonVO">
+	SELECT * FROM tb_Season
+	</select>
+	
+	<select id="getSeasonDetail" parameterClass="Long" resultClass="SeasonVO">
+	SELECT * 
+	FROM tb_Season
+	WHERE seasonid=#seasonId#
+	</select>
+	
+	<select id="getProjectList" resultClass="ProjectVO">
+	SELECT * FROM tb_Project
+	</select>
+	
+	<select id="getProjectDetail" parameterClass="Long" resultClass="ProjectVO">
+	SELECT * 
+	FROM tb_Project
+	WHERE projectno=#projectNo#
+	</select>
+	
+	<select id="getDuesCheckList" resultClass="DuescheckVO">
+	SELECT * FROM tb_Duescheck
+	</select>
+	
+	<select id="getTeamList" resultClass="TeamVO">
+	SELECT * FROM tb_Team
+	</select>
+	
+	<select id="getTeamDetail" parameterClass="String" resultClass="TeamVO">
+	SELECT *
+	FROM tb_Team
+	WHERE teamId=#teamId#
+	</select>
+	
+	<select id="getGenreList" resultClass="GenreVO">
+	SELECT * FROM tb_Genre
+	</select>
+	
+	<select id="getGenreDetail" parameterClass="String" resultClass="GenreVO">
+	SELECT *
+	FROM tb_Genre
+	WHERE genreId=#genreId#
+	</select>
+	
+	
+	<select id="getUserList" resultClass="UserVO">
+	SELECT * FROM tb_User
+	</select>
+	
+	<select id="getGradeList" resultClass="GradeVO">
+	SELECT * FROM tb_Grade
+	</select>
+	
+	<select id="getGradeDetail" parameterClass="String" resultClass="GradeVO">
+	SELECT *
+	FROM tb_Grade
+	WHERE gradeId=#gradeId#
+	</select>
+	
+	
+</sqlMap>

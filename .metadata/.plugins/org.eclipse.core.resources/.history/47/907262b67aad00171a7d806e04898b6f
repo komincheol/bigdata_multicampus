@@ -1,0 +1,14 @@
+package text_to_speech;
+
+public class Text2SpeechService2 {
+	public static void main(String[] args) {
+		Text2SpeechService service = new Text2SpeechServiceImpl();
+		try {
+			System.out.println(service.getVoiceList());
+		}catch (Exception e) {
+			e.printStackTrace();
+			// TODO: handle exception
+		}
+	}
+
+}

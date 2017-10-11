@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="grade">
+	<typeAlias alias="GradeVO" type="dandb.GradeVO"/>
+	
+	<update id="updateGrade" parameterClass="GradeVO">
+	UPDATE 	tb_Grade SET
+      		gradename=#gradeName# 
+	WHERE  	gradeid=#gradeId#   
+	</update>
+
+	<delete id="deleteGrade" parameterClass="String">
+	DELETE FROM tb_Grade
+	WHERE  		gradeid=#gradeId#  
+	</delete>
+
+	<insert id="insertGrade" parameterClass="GradeVO">
+	INSERT INTO tb_Grade
+	VALUES (#gradeId#, #gradeName#)
+	</insert>
+</sqlMap>

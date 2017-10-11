@@ -1,0 +1,150 @@
+2017-06-15 17:02:23,636 [Worker-16] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-15 17:02:23,682 [Worker-16] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-19 09:04:52,793 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-19 09:04:52,966 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-19 09:04:53,628 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-06-21 16:01:57,863 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-21 16:01:58,339 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-21 16:01:58,700 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-06-21 16:11:14,836 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-21 16:11:14,882 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-21 16:16:51,121 [Worker-7] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-21 16:16:51,305 [Worker-7] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-21 16:17:15,826 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-06-21 16:17:15,827 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-06-21 16:17:15,827 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 0.0%
+2017-06-21 16:19:54,225 [Worker-13] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-23 16:27:02,459 [Worker-102] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-23 16:27:02,779 [Worker-102] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-26 09:36:48,407 [Worker-15] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-26 09:36:48,490 [Worker-15] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-26 09:50:27,022 [Worker-25] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-06-29 10:32:06,063 [Worker-5] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-29 10:37:17,027 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-29 12:40:18,109 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-29 12:40:18,357 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-06-29 14:31:46,145 [Worker-19] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-06-29 14:31:46,222 [Worker-19] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-03 09:18:16,492 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-03 09:18:16,679 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-04 15:23:11,265 [Worker-24] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-04 15:39:11,297 [Worker-35] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-04 16:11:01,083 [Worker-52] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-04 16:11:01,083 [Worker-52] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-04 16:11:01,083 [Worker-52] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 43.9%
+2017-07-04 16:11:36,481 [Worker-51] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-04 16:14:37,345 [Worker-57] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-04 16:14:37,346 [Worker-57] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-04 16:14:37,346 [Worker-57] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 43.9%
+2017-07-04 16:17:11,543 [Worker-65] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-04 17:42:33,155 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-04 17:42:33,212 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-05 09:08:00,805 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-05 09:38:55,612 [Worker-26] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-05 10:10:15,234 [Worker-21] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-05 10:23:09,283 [Worker-29] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-05 11:46:03,196 [Worker-52] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-05 11:46:03,196 [Worker-52] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-05 11:46:03,196 [Worker-52] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 43.9%
+2017-07-05 11:46:16,151 [Worker-70] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-05 13:14:35,561 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-05 13:14:39,380 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-05 16:34:24,603 [Worker-51] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-05 16:34:24,666 [Worker-51] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-06 10:17:57,777 [Worker-142] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-10 09:16:29,835 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-10 09:16:30,152 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-10 09:16:32,779 [Worker-6] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-11 14:56:27,165 [Worker-544] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-12 13:56:17,120 [Worker-7] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-12 13:56:17,761 [Worker-7] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-12 13:56:20,283 [Worker-7] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-12 13:56:20,426 [Worker-7] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-13 10:53:26,606 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-13 10:53:26,715 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-13 10:53:28,173 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-13 10:53:28,255 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-13 16:57:49,267 [Worker-113] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-13 16:57:50,085 [Worker-112] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-13 16:57:52,252 [Worker-112] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-13 16:57:52,368 [Worker-112] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-14 10:37:04,289 [Worker-46] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-14 10:37:04,480 [Worker-46] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-14 10:37:06,721 [Worker-46] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-14 10:37:06,866 [Worker-46] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-17 11:28:09,129 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-17 11:28:09,232 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-17 11:28:11,462 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-17 11:28:11,608 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-18 17:08:30,767 [Worker-233] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-19 11:31:20,086 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-19 11:31:20,172 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-19 11:31:22,465 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-19 11:31:22,555 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-19 11:31:22,734 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-19 14:34:26,155 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-19 14:34:26,457 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-19 14:34:28,030 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-19 14:34:28,129 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-19 14:34:28,207 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-19 14:36:19,545 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-19 14:36:19,546 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-19 14:36:19,546 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 0.0%
+2017-07-19 14:36:19,551 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-19 14:36:19,551 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-19 14:36:19,551 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 0.0%
+2017-07-19 14:36:19,557 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-19 14:36:19,558 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-19 14:36:19,558 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 0.0%
+2017-07-19 14:36:19,572 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2017-07-19 14:36:19,572 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2017-07-19 14:36:19,573 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 11.4%
+2017-07-19 14:37:57,080 [Worker-23] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-19 15:21:40,452 [Worker-30] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-19 15:21:40,518 [Worker-30] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-19 15:21:40,732 [Worker-30] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-19 15:21:40,811 [Worker-30] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\5\store
+2017-07-19 20:49:54,785 [Worker-14] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-19 20:55:36,817 [Worker-4] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-20 09:37:32,226 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-20 09:37:32,331 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-20 09:37:32,584 [Worker-0] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-20 14:48:20,077 [Worker-158] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-21 16:54:47,731 [Worker-357] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-24 09:18:36,779 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-24 09:18:36,944 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-24 09:18:37,269 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-24 09:18:37,845 [Worker-3] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-24 11:05:38,201 [Worker-72] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-24 13:07:53,569 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-24 13:07:53,749 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-24 13:07:53,915 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-24 13:07:54,322 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-24 13:07:55,682 [Worker-18] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-24 14:20:34,052 [Worker-35] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-24 14:20:34,164 [Worker-35] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-24 14:20:34,316 [Worker-35] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-24 14:20:34,640 [Worker-35] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-24 14:20:35,952 [Worker-35] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-25 09:06:38,256 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-25 09:06:38,357 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-25 09:06:38,517 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-25 09:06:38,876 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-25 09:06:40,178 [Worker-22] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-25 13:05:41,628 [Worker-27] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-25 13:33:04,018 [Worker-45] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-25 13:33:04,130 [Worker-45] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-25 13:33:04,417 [Worker-45] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-25 13:33:05,538 [Worker-45] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-25 15:15:31,699 [Worker-45] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\5\store
+2017-07-25 15:16:17,466 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-25 15:16:17,546 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-25 15:16:17,757 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2017-07-25 15:16:18,127 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2017-07-25 15:16:19,850 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\4\store
+2017-07-25 15:16:21,384 [Worker-11] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\5\store
+2017-07-26 14:46:08,373 [Worker-439] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\6\store
+2017-07-26 18:52:52,808 [Worker-494] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\7\store
+2017-07-27 14:36:07,496 [Worker-29] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-07-27 14:36:07,820 [Worker-29] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-07-27 14:36:09,855 [Worker-29] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\dev\workspace\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store

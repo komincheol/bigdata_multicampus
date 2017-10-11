@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Move &apos;dance.erm&apos; to &apos;danceple&apos;" description="Move &apos;dance.erm&apos; to &apos;danceple&apos;" destination="/danceple" element1="/mvcboard_T/dance.erm" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1500011324837" updateReferences="true"/>&#x0A;<refactoring comment="Move &apos;dance.sql&apos; to &apos;danceple_erd&apos;" description="Move &apos;dance.sql&apos; to &apos;danceple_erd&apos;" destination="/danceple_erd" element1="/mvcboard_T/dance.sql" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1500012023747" updateReferences="true"/>
+</session>

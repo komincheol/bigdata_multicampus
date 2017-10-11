@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;build&apos; to &apos;classes&apos;" description="Move &apos;build&apos; to &apos;classes&apos;" destination="Danceple-master/bin/build/classes" element1="Danceple-master/build" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1500871304856" updateReferences="true"/>
+</session>

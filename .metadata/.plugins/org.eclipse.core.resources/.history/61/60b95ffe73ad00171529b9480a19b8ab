@@ -1,0 +1,6 @@
+package text_to_speech;
+
+public interface Text2SpeechService {
+	public
+
+}

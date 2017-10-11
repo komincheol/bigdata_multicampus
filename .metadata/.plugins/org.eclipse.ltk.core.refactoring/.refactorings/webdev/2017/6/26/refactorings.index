@@ -1,0 +1,25 @@
+1498438287717	Move 5 resources to 'WebContent'
+1498458626159	Delete element
+1498465305412	Move 'want.jsp' to 'quiz'
+1498465310478	Move 'form.jsp' to 'quiz'
+1498465376545	Move 'want.png' to 'quiz'
+1498465381465	Delete element
+1498465413496	Move 'form.jsp' to 'jsp'
+1498465415394	Move 'form1.jsp' to 'quiz'
+1498614131151	Delete element
+1498626367773	Delete element
+1498629933015	Move 'memo_insert.jsp' to 'memo'
+1498696068449	Rename resource 'cokie'
+1498707698287	Move 'removeCookie.jsp' to 'cookie2'
+1498710706710	Copy file
+1498710714346	Rename resource 'cookie_form.jsp'
+1498710750153	Rename resource 'cookie_form2.jsp'
+1498781312292	Delete element
+1498781323009	Move 'session2.jsp' to 'session2'
+1498781345985	Rename resource 'session2.jsp'
+1498781363626	Rename resource 'sessionfrom.jsp'
+1498781705017	Rename resource 'name.jsp'
+1498795437237	Delete element
+1498795445974	Delete element
+1498795734044	Rename type 'point2D'
+1498803212468	Delete elements
