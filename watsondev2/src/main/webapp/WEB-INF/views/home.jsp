@@ -11,5 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <a href="display">display voices</a><br/>
+<a href="text2speech">watson : tsxt2speech</a>
 </body>
 </html>

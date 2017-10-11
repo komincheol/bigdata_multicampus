@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Wed Oct 11 09:38:37 KST 2017
+#Wed Oct 11 17:01:23 KST 2017
 org.eclipse.jst.jee.server\:watsondev2=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev2
 org.eclipse.jst.jee.server\:mvcboard=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\mvcboard
