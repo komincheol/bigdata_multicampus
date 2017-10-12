@@ -41,4 +41,10 @@ public class Text2SpeechServiceImpl
 	public List<Text2SpeechVO> getText2SpeechList() throws Exception {
 		return text2SpeechDAO.getText2SpeechList();
 	}
+
+	@Override
+	public void delete(int no) throws Exception {
+
+		text2SpeechDAO.delete(no);
+	}
 }

@@ -23,7 +23,7 @@ public class Text2SpeechDAOImpl implements Text2SpeechDAO {
 		};
 		
 		jdbcTemplate.update(
-				"insert into tbl_text2speech(statement,lang)values(?,?)",args);
+				"insert into tbl_texttospeech(statement,lang)values(?,?)",args);
 	}
 
 	@Override
@@ -41,7 +41,18 @@ public class Text2SpeechDAOImpl implements Text2SpeechDAO {
 			
 		};
 		return jdbcTemplate.query(
-			" select no, statement, lang from tbl_text2speech" +
+			" select no, statement, lang from tbl_texttospeech" +
 			" order by no desc", rowMapper);
+	}
+
+	@Override
+	public void delete(int no) throws Exception {
+		Object[] args = new Object[] {
+				no
+			};
+		jdbcTemplate.update(
+				"delete from tbl_texttospeech where no=?",args
+				);
+		
 	}
 }

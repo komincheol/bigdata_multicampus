@@ -67,4 +67,12 @@ public class Text2SpeechController {
 		OutputStream os = response.getOutputStream();
 		FileCopyUtils.copy(is, os);
 	}
+	@GetMapping("delete")
+	public ModelAndView delete(int no) throws Exception{
+		logger.info("no:"+no);
+		
+		service.delete(no);
+		return new ModelAndView("redirect:display"); 
+		
+	}
 }
