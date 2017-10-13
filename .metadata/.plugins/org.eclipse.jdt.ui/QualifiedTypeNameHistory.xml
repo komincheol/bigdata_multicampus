@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.io.LineNumberInputStream"/>
 <fullyQualifiedTypeName name="oracle.jdbc.dcn.QueryChangeDescription.QueryChangeEventType"/>
 <fullyQualifiedTypeName name="ibatis.AccountVO"/>
 <fullyQualifiedTypeName name="basic.contoller.AbstractController"/>
@@ -59,5 +58,6 @@
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="com.ibm.watson.developer_cloud.http.ServiceCall"/>
+<fullyQualifiedTypeName name="text_to_speech.Text2SpeechService"/>
 <fullyQualifiedTypeName name="javax.annotation.Generated"/>
 </qualifiedTypeNameHistroy>

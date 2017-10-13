@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Wed Oct 11 17:01:23 KST 2017
-org.eclipse.jst.jee.server\:watsondev2=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev2
-org.eclipse.jst.jee.server\:mvcboard=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\mvcboard
+#Fri Oct 13 15:50:07 KST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\student\\.m2\\repository\\org\\springframework\\spring-web\\4.3.11.RELEASE\\spring-web-4.3.11.RELEASE.jar=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev3\\WEB-INF\\lib\\spring-web-4.3.11.RELEASE.jar
+org.eclipse.jst.jee.server\:watsondev3=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev3

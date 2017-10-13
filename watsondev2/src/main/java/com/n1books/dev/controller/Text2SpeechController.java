@@ -21,7 +21,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.ibm.watson.developer_cloud.text_to_speech.v1.TextToSpeech;
 import com.ibm.watson.developer_cloud.text_to_speech.v1.model.Voice;
 
-import text_to_speech.Text2SpeechService;
+
 
 @Controller
 public class Text2SpeechController {
@@ -33,6 +33,8 @@ public class Text2SpeechController {
 	public ModelAndView hello() {
 		return new ModelAndView("hello", "msg", "Hello MVC");
 	}
+	
+	
 	
 	@RequestMapping("display")
 	public ModelAndView display_voice() {
@@ -52,16 +54,22 @@ public class Text2SpeechController {
 	}
 	
 	@GetMapping("speaker")
-	public void speaker(String statement, String voice, HttpServletResponse response) throws Exception {
-		logger.info("statement : " + statement);
-		logger.info("voice     : " + voice);
-		
+	public void speaker(Text2SpeechVO vo, HttpServletResponse response) throws Exception {
+		logger.info("vo: "+vo);
 		response.setContentType("application/octet-stream");
 		response.setHeader(
 				"Content-Disposition", "attachment;filename=" +
 				URLEncoder.encode("voice.ogg","UTF-8"));
+		
+		
+		try {
+			service.insertText2Speech(vo);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
-		InputStream is = service.getSpeech(statement, voice);
+		InputStream is = service.getSpeech(vo.getStatement(), vo.getLang());
 		OutputStream os = response.getOutputStream();
 		FileCopyUtils.copy(is, os);
 	}

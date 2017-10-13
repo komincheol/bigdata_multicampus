@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\dev\\workspace\\Danceple-proto\\.git;
-GitRepositoriesView.GitDirectories.relative=Danceple-proto\\.git;
+GitRepositoriesView.GitDirectories=C\:\\dev\\workspace\\Danceple-proto\\.git;C\:\\dev\\.git;C\:\\dev\\workspace\\.git;
+GitRepositoriesView.GitDirectories.relative=Danceple-proto\\.git;C\:\\dev\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

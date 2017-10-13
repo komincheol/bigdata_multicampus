@@ -5,6 +5,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!-- meta 정보의 http-equiv content-type text/html 등이 지정되지 않을 경우
+문자열의 ?가 쿼리스트링에서 특수문자로 변경 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="<c:url value=""/>" />
 <title>Insert title here</title>
@@ -18,7 +20,7 @@
 			param = decodeURIComponent(param);
 			alert(param)
 			$.ajax({
-				url : "http://localhost:8088/watson/classifier",
+				url : "classifier",
 				type : "POST",
 				data : param,
 				contentType : "application/json; charset=UTF-8",
