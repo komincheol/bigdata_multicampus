@@ -1,5 +1,0 @@
-package text_to_speech;
-
-public interface TextToSpeechService {
-
-}

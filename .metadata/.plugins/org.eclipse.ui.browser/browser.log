@@ -153,3 +153,8 @@
 7월 25, 2017 09:10:25.79 NEW SESSION
 7월 25, 2017 09:10:25.79 
 7월 25, 2017 09:10:25.81 KLIB_SelfTest return : KLR_OK
+
+10월 16, 2017 17:49:44.88 NEW SESSION
+10월 16, 2017 17:49:44.88 [8608:9140:1016/174944.882:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+10월 16, 2017 17:50:07.92 
+10월 16, 2017 17:50:07.93 KLIB_SelfTest return : KLR_OK

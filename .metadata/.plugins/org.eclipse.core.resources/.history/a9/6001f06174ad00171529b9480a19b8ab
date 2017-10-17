@@ -1,9 +1,0 @@
-package text_to_speech;
-
-import com.ibm.watson.developer_cloud.text_to_speech.v1.TextToSpeech;
-
-public class Text2SpeechServiceImpl 
-	extends TextToSpeech
-	implements TextToSpeechService{
-
-}
