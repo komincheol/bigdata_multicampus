@@ -6,4 +6,5 @@
 </aspect-definition>
 </aop-project>
 <aop-project name="watsondev3"/>
+<aop-project name="watsondev4"/>
 </aop-reference-model>
