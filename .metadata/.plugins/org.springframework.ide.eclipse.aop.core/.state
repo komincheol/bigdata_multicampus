@@ -5,6 +5,10 @@
 <aop-reference advice-type="BEFORE" bean="1:BeansModel|2:watsondev2|3:src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml|7:beans:beans:10|8:text2SpeechController:10" bean-file="/watsondev2/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" bean-start-line="10" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/watsondev2/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" source="=watsondev2/src\/main\/java&lt;com.n1books.dev.aop{AopController.java[AopController~ad_before_insert~QJoinPoint;" source-start-line="23" target="=watsondev2/src\/main\/java&lt;com.n1books.dev.controller{Text2SpeechController.java[Text2SpeechController~speaker~QText2SpeechVO;~QHttpSession;~QHttpServletResponse;" target-start-line="70"/>
 </aspect-definition>
 </aop-project>
-<aop-project name="watsondev3"/>
+<aop-project name="watsondev3">
+<aspect-definition advice-class-name="com.n1books.dev.aop.AopController" advice-method-name="ad_before_insert(org.aspectj.lang.JoinPoint)" advice-type="BEFORE" aspect-end-line-number="26" aspect-name="aopController" aspect-start-line-number="26" factory-id="org.springframework.ide.eclipse.aop.core.annotationAspectDefinitionElementFactory" file="/watsondev3/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" pointcut-expression="execution(* com.n1books.dev.controller.Text2SpeechController.speaker(..))" proxy-target-class="false">
+<aop-reference advice-type="BEFORE" bean="1:BeansModel|2:watsondev3|3:src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml|7:beans:beans:10|8:text2SpeechController:10" bean-file="/watsondev3/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" bean-start-line="10" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/watsondev3/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" source="=watsondev3/src\/main\/java&lt;com.n1books.dev.aop{AopController.java[AopController~ad_before_insert~QJoinPoint;" source-start-line="23" target="=watsondev3/src\/main\/java&lt;com.n1books.dev.controller{Text2SpeechController.java[Text2SpeechController~speaker~QText2SpeechVO;~QHttpServletResponse;" target-start-line="67"/>
+</aspect-definition>
+</aop-project>
 <aop-project name="watsondev4"/>
 </aop-reference-model>
