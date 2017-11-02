@@ -17,7 +17,7 @@ public class ConversationTest {
 		Scanner sc = new Scanner(System.in);
 		
 		Conversation service = new Conversation(Conversation.VERSION_DATE_2017_05_26);
-		service.setUsernameAndPassword("username", "password");
+		service.setUsernameAndPassword("4530d5d1-59a5-4fcc-9d32-5021e141f8d2", "VyEa2brPje04");
 
 		MessageResponse response=null;
 		Context context =null;
@@ -27,7 +27,7 @@ public class ConversationTest {
 		
 		while (true) {
 			 options = new MessageOptions.Builder()
-					 .workspaceId("workspaceId")
+					 .workspaceId("99622784-5ff1-44c8-a569-74f4dcde33aa")
 					.input(new InputData.Builder(msg).build())
 					.context(context)
 					.build();

@@ -1,6 +1,4 @@
 #Tomcat publish data
-#Thu Oct 19 15:42:17 KST 2017
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\student\\.m2\\repository\\org\\springframework\\spring-web\\4.3.11.RELEASE\\spring-web-4.3.11.RELEASE.jar=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev2\\WEB-INF\\lib\\spring-web-4.3.11.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\student\\.m2\\repository\\org\\springframework\\spring-web\\4.3.12.RELEASE\\spring-web-4.3.12.RELEASE.jar=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev4\\WEB-INF\\lib\\spring-web-4.3.12.RELEASE.jar
-org.eclipse.jst.jee.server\:watsondev4=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev4
-org.eclipse.jst.jee.server\:watsondev2=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\watsondev2
+#Thu Nov 02 09:20:23 KST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\student\\.m2\\repository\\org\\springframework\\spring-web\\4.3.12.RELEASE\\spring-web-4.3.12.RELEASE.jar=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\chatbotdev\\WEB-INF\\lib\\spring-web-4.3.12.RELEASE.jar
+org.eclipse.jst.jee.server\:chatbotdev=C\:\\dev\\sw\\sts-bundle\\pivotal-tc-server-developer-3.2.6.RELEASE\\base-instance\\wtpwebapps\\chatbotdev

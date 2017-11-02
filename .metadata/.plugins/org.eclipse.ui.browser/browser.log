@@ -158,3 +158,32 @@
 10월 16, 2017 17:49:44.88 [8608:9140:1016/174944.882:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
 10월 16, 2017 17:50:07.92 
 10월 16, 2017 17:50:07.93 KLIB_SelfTest return : KLR_OK
+
+11월 01, 2017 17:23:57.23 NEW SESSION
+11월 01, 2017 17:23:57.23 
+11월 01, 2017 17:23:57.27 KLIB_SelfTest return : KLR_OK
+11월 01, 2017 17:24:43.60 [10440:9764:1101/172443.598:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+11월 01, 2017 17:24:43.69 
+11월 01, 2017 17:24:43.69 KLIB_SelfTest return : KLR_OK
+11월 01, 2017 17:26:30.90 [9336:10824:1101/172630.907:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+11월 01, 2017 17:41:59.35 
+11월 01, 2017 17:41:59.35 KLIB_SelfTest return : KLR_OK
+11월 01, 2017 17:42:55.29 [9696:2884:1101/174255.293:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+11월 01, 2017 17:49:12.36 
+11월 01, 2017 17:49:12.36 KLIB_SelfTest return : KLR_OK
+11월 01, 2017 17:50:12.16 [9028:9932:1101/175012.165:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+11월 01, 2017 17:50:28.54 
+11월 01, 2017 17:50:28.54 KLIB_SelfTest return : KLR_OK
+11월 01, 2017 17:51:17.46 
+11월 01, 2017 17:51:17.46 KLIB_SelfTest return : KLR_OK
+11월 01, 2017 17:57:44.01 [8272:10668:1101/175744.019:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+11월 02, 2017 12:38:17.16 [8272:10668:1102/123817.164:ERROR:socket_stream.cc(210)] Closing stream with result -101
+11월 02, 2017 12:38:59.26 [8272:10668:1102/123859.263:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+11월 02, 2017 15:40:37.96 [8272:9272:1102/154037.965:ERROR:audio_manager_base.cc(275)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+11월 02, 2017 15:53:10.30 [8272:9272:1102/155310.300:ERROR:audio_manager_base.cc(275)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+11월 02, 2017 16:35:12.95 [8272:9272:1102/163512.954:ERROR:audio_manager_base.cc(275)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+11월 02, 2017 16:35:54.94 [8272:9272:1102/163554.945:ERROR:audio_manager_base.cc(275)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+11월 02, 2017 16:42:23.60 [8272:10668:1102/164223.606:ERROR:ssl_client_socket_impl.cc(1129)] handshake failed; returned -1, SSL error code 1, net_error -101
+11월 02, 2017 18:29:35.93 [8272:9272:1102/182935.934:ERROR:audio_manager_base.cc(275)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+11월 02, 2017 18:44:44.35 
+11월 02, 2017 18:44:44.35 KLIB_SelfTest return : KLR_OK
